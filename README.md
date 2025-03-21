@@ -1,14 +1,4 @@
 # albOSINT
-```md
-<style>
-body {
-  background-color: black;
-  color: white;
-  font-family: Arial, sans-serif;
-}
-</style>
-```
-
 # 🔍 **OSINT Bookmarks Repository**
 
 This repository contains a well-organized collection of **OSINT (Open-Source Intelligence)** tools and resources categorized for easy access.
